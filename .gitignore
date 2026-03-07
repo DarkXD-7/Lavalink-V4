@@ -1,0 +1,16 @@
+# Lavalink generated files
+logs/
+*.log
+plugins/
+
+# Don't commit the jar — it gets downloaded in Dockerfile
+Lavalink.jar
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
